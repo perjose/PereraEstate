@@ -935,6 +935,11 @@ strong {
   background-color: var(--section-bg-color);
   border-radius: var(--border-radius-medium);
   padding: 50px 25px;
+  color: #ffffff;
+}
+
+.events-detail-info > p {
+  color: #ffffff;
 }
 
 .events-title {
