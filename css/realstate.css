@@ -363,7 +363,7 @@ strong {
   background: var(--custom-btn-bg-color);
   border: 2px solid transparent;
   border-radius: var(--border-radius-large);
-  color: var(--white-color);
+  color: #23953c;
   font-size: var(--btn-font-size);
   font-weight: var(--font-weight-bold);
   line-height: normal;
@@ -753,7 +753,7 @@ strong {
   background-color: var(--primary-color);
   border: 0;
   border-radius: var(--border-radius-large) !important;
-  color: var(--white-color);
+  color: #23953c;
   max-width: 150px;
 }
 
